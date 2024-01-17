@@ -37,4 +37,11 @@ The final script uses a linear regression model to predict future listening minu
 
 Feel free to explore each script for detailed explanations and adjust the parameters to suit your own Spotify listening history data.
 
+# My Hypothesis and Purpose 
+I wanted to find out if I'm listening to different songs when I'm studying for my exams. 
+Null Hypothesis (H0): There is no significant difference in the songs I listen to when studying for exams compared to other times.
+Alternative Hypothesis (H1): I listen to different songs when studying for exams compared to other times.
 
+# Conclusion
+Exam Songs and Non-Exam Songs datasets have a similarity of 8%, this supports the H1.
+In conclusion, H0 is rejected.
