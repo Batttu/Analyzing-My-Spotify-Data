@@ -3,12 +3,19 @@ Analyzing my spotify data for different time periods. This project focuses on an
 
 # Table of Contents
 Data Collection
+
 Audio Features Analysis
+
 Time-based Analysis
+
 Listening Patterns during Exam Periods
+
 Playlist Creation
+
 HTML Data Extraction
+
 Common Song Analysis
+
 Future Listening Prediction
 
 # Data Collection
