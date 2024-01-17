@@ -52,3 +52,6 @@ Alternative Hypothesis (H1): I listen to different songs when studying for exams
 # Conclusion
 Exam Songs and Non-Exam Songs datasets have a similarity of 8%, this supports the H1.
 In conclusion, H0 is rejected.
+
+# Limitations and Future Work
+I wanted to use Spotify Web API more efficiently in this project. I plan to learn how to use it better and add more features to my project.
